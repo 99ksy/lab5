@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/99ksy/lab5/badge.svg?branch=main)](https://coveralls.io/github/99ksy/lab5?branch=main)
+
 ## Laboratory work V
 
 Данная лабораторная работа посвещена изучению фреймворков для тестирования на примере **GTest**
